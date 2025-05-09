@@ -1,14 +1,12 @@
-# TSX-Unstop-Python
-This is a Python project submitted for the Unstop challenge.  
-It includes scripts, strategies, and tools as part of the TSX submission.
+# TSX Unstop Python Project
 
-## Features
-- Python-based automation
-- Modular design
-- Git version control
+A Python-based project for the TSX submission on Unstop.
 
-## Setup
-To run:
+## 📂 Files
+- `main.py`: Main program
+- `utils.py`: Helper functions
+- `requirements.txt`: Libraries used
+
+## ▶️ How to Run
 ```bash
 python main.py
-
